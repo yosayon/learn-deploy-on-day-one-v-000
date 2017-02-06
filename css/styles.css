@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#terry-blue-cover {
+  background-image: url("http://i.imgur.com/pEyNARv.jpg");
+}
+
+#terry-blue-card {
+   background-image: url("http://i.imgur.com/tuS5zeh.jpg?5");
+}
+
 #art-rodriguez-cover {
   background-image: url("http://i.imgur.com/EwESaI4.jpg");
 }
