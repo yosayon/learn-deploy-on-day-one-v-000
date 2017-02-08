@@ -4826,6 +4826,27 @@ a:visited {
   border-top: 1px dotted #85929d;
 }
 
+.education-content div:nth-child(5),
+.experience-content div:nth-child(5) {
+  padding-top: 15px;
+  margin-top: 15px;
+  border-top: 1px dotted #85929d;
+}
+
+.education-content div:nth-child(6),
+.experience-content div:nth-child(6) {
+  padding-top: 15px;
+  margin-top: 15px;
+  border-top: 1px dotted #85929d;
+}
+
+.education-content div:nth-child(7),
+.experience-content div:nth-child(7) {
+  padding-top: 15px;
+  margin-top: 15px;
+  border-top: 1px dotted #85929d;
+}
+
 /* MEDIA QUERIES
 ======================== */
 @media only screen and (min-width: 480px) {
