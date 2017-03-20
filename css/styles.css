@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#zenia-villa-cover {
+    background-image: url("http://i.imgur.com/8plSYqG.jpg");
+}
+
+#zenia-villa-card {
+    background-image: url("http://i.imgur.com/XMVHsbe.jpg");
+}
+
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
 }
