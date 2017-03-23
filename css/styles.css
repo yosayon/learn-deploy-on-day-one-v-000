@@ -2,6 +2,7 @@
 /* GLOBAL STYLES
 ======================== */
 
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -133,6 +134,15 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+#niki-lee-cover {
+  background-color: #ff0080;
+}
+
+#niki-lee-card {
+  background-image: url("http://i.imgur.com/8FtrqJG.jpg");
+}
+
 
 #krystle-barnes-cover {
     background-image: url("http://i.imgur.com/DdV0Ekg.jpg");
