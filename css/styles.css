@@ -134,6 +134,14 @@ a:visited {
   height: 400px;
 }
 
+#terry-blue-cover {
+  background-image: url("http://i.imgur.com/pEyNARv.jpg");
+}
+
+#terry-blue-card {
+   background-image: url("http://i.imgur.com/tuS5zeh.jpg?5");
+}
+
 #art-rodriguez-cover {
   background-image: url("http://i.imgur.com/EwESaI4.jpg");
 }
@@ -197,7 +205,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -4626,7 +4634,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
