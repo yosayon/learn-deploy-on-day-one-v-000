@@ -4664,34 +4664,12 @@ a:visited {
 }
 
 #william-barela-cover {
- background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/city-cover.jpg");
+    background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/city-cover.jpg");
 }
 
 #william-barela-card {
- background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
- border: 3px #63BEDC solid;
+    background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
 }
-
-#william-barela-card, .will-b-icon {
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  -o-transition: 0.2s;
-  transition: 0.2s;
-  -webkit-transition-timing-function: ease-in-out;
-  -moz-transition-timing-function: ease-in-out;
-  -o-transition-timing-function: ease-in-out;
-  transition-timing-function: ease-in-out;
-}
-
-#william-barela-card:hover, .will-b-icon:hover {
-  -webkit-transform: scale(1.2);
-  -moz-transform: scale(1.2);
-  -o-transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  transform: scale(1.2);
-}
-
-
 
 .view-profile-div {
   position: absolute;
