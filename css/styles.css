@@ -4900,6 +4900,14 @@ a:visited {
   background-image: url("http://i.imgur.com/RLMe4us.jpg");
 }
 
+#william-barela-cover {
+    background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/city-cover.jpg");
+}
+
+#william-barela-card {
+    background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
