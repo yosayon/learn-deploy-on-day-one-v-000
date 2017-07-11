@@ -5013,6 +5013,14 @@ a:visited {
   background-image: url("http://i.imgur.com/GqeWRSf.png");
 }
 
+#julia-thompson-cover {
+    background-image: url("http://i.imgur.com/95AcWIm.jpg");
+  }
+ 
+#julia-thompson-card {
+    background-image: url("http://i.imgur.com/wIKLtDr.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
