@@ -132,6 +132,14 @@ a:visited {
   display: block;
   height: 400px;
 }
+#aly-alidina-cover {
+    background-image: url("http://imgur.com/ucFtuBt.jpg");
+}
+
+#aly-alidina-card {
+    background-image: url("http://imgur.com/zLQFVKP.jpg");
+}
+
 
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
