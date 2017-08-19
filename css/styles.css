@@ -132,6 +132,16 @@ a:visited {
   display: block;
   height: 400px;
 }
+
+}
+#yosa-yon-cover {
+    background-image: url("http://i.imgur.com/9zt9xmB.jpg");
+}
+
+#yosa-yon-card {
+    background-image: url("http://i.imgur.com/0nA2jtI.jpg");
+}
+
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
 }
@@ -486,7 +496,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5026,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
